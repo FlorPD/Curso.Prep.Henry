@@ -1,0 +1,11 @@
+Variables: Son elementos que ocupan un lugar en memoria y nos permiten guardar valores. Se les asigna un nombre identificador y un valor
+
+Strings: Son datos del tipo texto. Van encerrados entre comillas simples o dobles
+
+Funciones: Se utilizan para agrupar codigo que voy a usar muchas veces. Son un tipo particular de objeto que puede ser invocado.
+Recibe un nombre y entre parentesis parametros. A continuacion, entre llaves va el bloque de codigo.
+Dentro de la funcion se debe agregar un Return para que la funcion nos devuelva un resultado. Este detiene la ejecucion de la funcion
+
+If : es una estructura de control que se utiliza para tomar decisiones. Nos devuelve un resultado segun se cumpla o no determinada condicion
+
+Booleano : es un tipo de dato que tiene dos posibles valores, verdadero o falso -> true / false
