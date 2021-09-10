@@ -1,0 +1,12 @@
+for: es una estructura de control que nos permite repetir un bloque de codigo x canditdad de veces formando un bucle.
+
+Su estructura se forma con una variable auxiliar i que indica el numero de repeticion,
+una condicion de frenado que indica hasta cuando se va a repetir y por ultimo la forma en la que se incrementa su valor.
+
+Operadores logicos : devuelven un valor booleano
+
+&& : Operador "y". Nos devuelve true si ambas expresiones son verdaderas
+
+|| : Operador "o". Nos devuelve true si al menos una de las expresiones es verdadera
+
+! : operador "not". Devuelve el valor booleano opuesto 
