@@ -1,0 +1,4 @@
+Array :
+Es una forma de organizar la informacion. Permite almacenar datos de cualquier tipo
+Se lo puede definir como una coleccion de elementos los cuales se ordenan de acuerdo a su posición.
+Los elementos se escriben encerrados entre [ ] y separados entre si por comas.
