@@ -1,0 +1,15 @@
+Objetos: Otra forma de almacenar informacion.
+Es una coleccion de propiedades y se utiliza para almacenar mucha informacion sobre una misma cosa. Acepta cualquier tipo de datos.
+Las propiedades van encerradas entre {}
+
+Propiedades: es la asociacion clave: valor (key: value). Donde key es el nombre del dato y value su valor. Un objeto puede tener muchas propiedades
+que deben ir separadas por comas.
+
+Métodos: Cuando el valor de la clave es una función, a la propiedad se la llama método
+
+Bucle for...in : Recorre todas las propiedades enumerables de un objeto y finaliza cuando se hayan iterado todas las claves
+Su sintaxis es for <variable> in <objeto>
+
+Notacion de punto y notacion de brackets: Para acceder a los valores de las propiedades de un objeto se lo puede hacer mediante la notacion de punto
+(nombreDelObjeto.nombreDeLaPropiedad) o utilizando la notacion de corchetes (nombreDelObjeto['nombreDeLaPropiedad']).
+Cuando se trabaja con variables casi siempre se una la notacion de corchetes
