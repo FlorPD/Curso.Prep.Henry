@@ -1,0 +1,5 @@
+Prototype: Cada clase tiene una propiedad llamada prototype que permite crear un metodo una sola vez y
+           permitir que todos los objetos de esa clase tengan acceso al metodo.
+
+Constructors: Es una plantilla para la creacion de objetos siguiendo un modelo predefinido.
+              Sirven para crear muchos objetos que comparten algunas de las mismas propiedades y métodos.
