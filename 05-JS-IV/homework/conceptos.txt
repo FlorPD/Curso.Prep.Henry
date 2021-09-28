@@ -5,7 +5,7 @@ Las propiedades van encerradas entre {}
 Propiedades: es la asociacion "clave:valor" (key: value). Donde key es el nombre del dato y value su valor. Un objeto puede tener muchas propiedades
 que deben ir separadas por comas.
 
-Métodos: Cuando la propiedad es una funcion se la llama metodo
+Métodos: Cuando la propiedad de un objeto es una funcion se la llama metodo
 
 Bucle for...in : Recorre todas las propiedades enumerables de un objeto y finaliza cuando se hayan iterado todas las claves
 Su sintaxis es for <variable> in <objeto>
