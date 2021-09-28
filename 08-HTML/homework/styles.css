@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+
+}
+.homeworkI{
+    background-image: url('https://previews.123rf.com/images/veronikamm/veronikamm1810/veronikamm181000066/110861404-food-background-burgers-hand-drawn-illustration-for-your-design-wallpaper-menu-textile.jpg');
+    background-repeat: no-repeat;
+    background-position: center ;
+    background-size: cover;
+    text-align: center;
+}
+
+.divClass h1{
+    padding: 20px;
+    color : darkorange; 
+}
+
+#thirdDiv img {
+    width: 400px;
+    padding-top: 10px;
+    
+}
+#thirdDiv {
+    width : 500px;
+    height: 600px;
+    background-color: #F4B468 ;
+    padding: 50px;
+    border : 2px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 30px;
+    list-style-position: inside;
+}
+#thirdDiv li, p{
+    padding-bottom: 15px;
+}
+#thirdDiv li a {
+    color: black;
+    
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;  
+    display: inline-block;
+}
+#spanId a {    
+    color: black;
+}
+a:hover  {
+    font-weight: bolder;
+}
+#cv {
+    position: relative;
+    z-index: 2 ;
+    background-color :#FFFEF5;
+    height:fit-content;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    
+}
+#cv::before{
+    content: "" ;
+    position: absolute;
+    background-image: url("https://previews.123rf.com/images/dimapolie/dimapolie1804/dimapolie180400134/99402221-patr%C3%B3n-de-computadora-de-vector-fondo-transparente-de-computadora.jpg");
+    background-position: center;
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+    opacity: 0.20;
+}
+
+.container{
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;    
+    justify-content: space-between;
+    background-color: #EE675F;
+    height: 250px;
+    width: auto;
+}
+.container img {
+    width: 280px;
+    height: auto;
+    border-radius: 50%;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); ; 
+
+}
+.info{
+    display: flex;
+    flex-direction: column;
+    margin: auto; 
+}
+.info h1 {
+    color: #FFFEF5;
+    font-size: 3rem;
+    padding-bottom: 10px;
+}
+.info h4 {
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+#main{
+    position: relative;
+    margin: 50px;
+    text-align: justify;
+}
+.title {
+    background-color: #EE675F ;
+    width: fit-content;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 5px;
+    color: #FFFEF5;
+    font-weight: bolder;
+    margin: 15px;
+}
